@@ -17,8 +17,6 @@
 
 ---
 
-### What we do
+### Products
 
-- **Products** — planning, development, and operation of our own mobile apps, web services, and software
-- **Development** — contract development of web and mobile applications
-- **Consulting** — technical advisory on architecture, developer tooling, and open source
+- **[deariary](https://deariary.com)** — connect your calendar, chat, code, and tasks, and deariary writes your diary every day, automatically
