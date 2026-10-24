@@ -6,7 +6,7 @@
 
 <p align="center">
   Small, composable software that just works.<br>
-  An independent software studio based in Kawasaki, Japan.
+  An independent software studio based in Ginza, Tokyo, Japan.
 </p>
 
 <p align="center">
